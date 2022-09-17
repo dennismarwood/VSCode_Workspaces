@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../back"
+		},
+		{
+			"path": "../front"
+		},
+		{
+			"path": "../db"
+		},
+		{
+			"path": "../Docker_Compose/Homepage"
+		}
+	],
+	"settings": {}
+}
