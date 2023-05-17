@@ -11,7 +11,15 @@
 		},
 		{
 			"path": "../Docker_Compose/Homepage"
+		},
+		{
+			"path": "../Blog_Drafts"
+		},
+		{
+			"path": "../Education"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"thunder-client.saveToWorkspace": true
+	}
 }
