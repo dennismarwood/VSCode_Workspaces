@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "../../back"
+		},
+		{
+			"path": "../../front"
+		},
+		{
+			"path": "../../db"
+		},
+		{
+			"path": "../../Docker_Compose/Homepage"
+		},
+		{
+			"path": "../../Blog_Drafts"
+		},
+		{
+			"path": "../../Education"
+		}
+	],
+	"settings": {
+		"thunder-client.saveToWorkspace": false,
+		"thunder-client.workspaceRelativePath": "../",
+		"thunder-client.customLocation": "$HOME/Projects/VSCode_Workspaces/homepage/extensions/thunder/"
+	}
+}
