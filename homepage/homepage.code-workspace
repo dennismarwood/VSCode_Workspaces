@@ -1,25 +1,27 @@
 {
 	"folders": [
 		{
-			"path": "../back"
+			"path": "../../back"
 		},
 		{
-			"path": "../front"
+			"path": "../../front"
 		},
 		{
-			"path": "../db"
+			"path": "../../db"
 		},
 		{
-			"path": "../Docker_Compose/Homepage"
+			"path": "../../Docker_Compose/Homepage"
 		},
 		{
-			"path": "../Blog_Drafts"
+			"path": "../../Blog_Drafts"
 		},
 		{
-			"path": "../Education"
+			"path": "../../Education"
 		}
 	],
 	"settings": {
-		"thunder-client.saveToWorkspace": true
+		"thunder-client.saveToWorkspace": false,
+		"thunder-client.workspaceRelativePath": "../",
+		"thunder-client.customLocation": "$HOME/Projects/VSCode_Workspaces/homepage/extensions/thunder/"
 	}
 }
