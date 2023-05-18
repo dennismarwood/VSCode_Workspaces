@@ -23,5 +23,6 @@
 		"thunder-client.saveToWorkspace": false,
 		"thunder-client.workspaceRelativePath": "../",
 		"thunder-client.customLocation": "$HOME/Projects/VSCode_Workspaces/homepage/extensions/thunder/"
-	}
+	},
+	"notes": {"desktop docker volume": "path: ../Docker_Compose/Homepage"}
 }
