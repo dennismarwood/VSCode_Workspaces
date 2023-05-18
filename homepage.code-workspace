@@ -11,7 +11,11 @@
 		},
 		{
 			"path": "../Docker_Compose/Homepage"
+		},
+		{
+			"path": "/media/dennis/extradrive1/docker_volumes"
 		}
 	],
-	"settings": {}
+	"settings": {},
+	"notes": {"desktop docker volume": "path: ../Docker_Compose/Homepage"}
 }
